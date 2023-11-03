@@ -1,0 +1,9 @@
+fastapi
+streamlit
+easyocr
+Pillow
+pandas
+transformers
+sentencepiece
+tensorflow
+scikit-learn
